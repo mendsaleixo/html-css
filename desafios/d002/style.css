@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;  
+}
+
+figure {
+    display: block;
+    margin: auto;
+}
+figcaption {
+    font-size: 10px;
+}
+
+img {
+    width: 150px;
+    height: 140px;
+    background-color: rebeccapurple;
+    border-radius: 5%;
+    margin-top: 50px;
+}
+
